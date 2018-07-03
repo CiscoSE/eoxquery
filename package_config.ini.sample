@@ -1,0 +1,3 @@
+[application]
+client_id = {include client_id}
+client_secret = {include client_secret}
